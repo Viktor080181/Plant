@@ -1,0 +1,5 @@
+C:\Users\Виктор\Desktop\рабочая\учеба\DZ_2_SQLConnection\SQLConnection\SQLConnection\obj\Debug\net8.0\SQLConnection.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\рабочая\учеба\DZ_2_SQLConnection\SQLConnection\SQLConnection\obj\Debug\net8.0\SQLConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Desktop\рабочая\учеба\DZ_2_SQLConnection\SQLConnection\SQLConnection\obj\Debug\net8.0\SQLConnection.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\рабочая\учеба\DZ_2_SQLConnection\SQLConnection\SQLConnection\obj\Debug\net8.0\SQLConnection.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\рабочая\учеба\DZ_2_SQLConnection\SQLConnection\SQLConnection\obj\Debug\net8.0\SQLConnection.csproj.CoreCompileInputs.cache
